@@ -9,6 +9,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.post("/chat", async (req, res) => {
+  console.log("✅ POST /chat received"); // <-- ADD THIS LINE
   const userMessage = req.body.message;
 
   try {
@@ -23,7 +24,7 @@ app.post("/chat", async (req, res) => {
       },
       {
         headers: {
-          "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
+          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
           "Content-Type": "application/json"
         }
       }
@@ -31,11 +32,7 @@ app.post("/chat", async (req, res) => {
 
     res.json(response.data.choices[0].message);
   } catch (error) {
-    console.error("Error calling OpenAI:", error.response?.data || error.message);
+    console.error("❌ Error calling OpenAI:", error.response?.data || error.message);
     res.status(500).json({ error: "Something went wrong." });
   }
 });
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`);
-
