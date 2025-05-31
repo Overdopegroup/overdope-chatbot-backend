@@ -8,12 +8,6 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-// ✅ Root route for testing if server is running
-app.get("/", (req, res) => {
-  res.send("✅ Server is up and running");
-});
-
-// ✅ POST route for chatbot
 app.post("/chat", async (req, res) => {
   console.log("✅ POST /chat received");
 
@@ -25,25 +19,31 @@ app.post("/chat", async (req, res) => {
       {
         model: "gpt-3.5-turbo",
         messages: [
-          { role: "system", content: "You are a helpful assistant for Overdope Production Hub." },
-          { role: "user", content: userMessage }
-        ]
+          {
+            role: "system",
+            content: "You are a helpful assistant for Overdope Production Hub.",
+          },
+          {
+            role: "user",
+            content: userMessage,
+          },
+        ],
       },
       {
         headers: {
-          "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
-          "Content-Type": "application/json"
-        }
+          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          "Content-Type": "application/json",
+        },
       }
     );
 
-    res.json(response.data.choices[0].message);
+    console.log("🔁 OpenAI response:", response.data);
+    res.json({ reply: response.data.choices[0].message.content });
   } catch (error) {
     console.error("❌ Error calling OpenAI:", error.response?.data || error.message);
-    res.status(500).json({ error: "Something went wrong." });
+    res.status(500).json({ error: "Something went wrong calling OpenAI." });
   }
 });
 
-// ✅ Start server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
