@@ -8,8 +8,15 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
+// ✅ Root route for testing if server is running
+app.get("/", (req, res) => {
+  res.send("✅ Server is up and running");
+});
+
+// ✅ POST route for chatbot
 app.post("/chat", async (req, res) => {
-  console.log("✅ POST /chat received"); // <-- ADD THIS LINE
+  console.log("✅ POST /chat received");
+
   const userMessage = req.body.message;
 
   try {
@@ -24,7 +31,7 @@ app.post("/chat", async (req, res) => {
       },
       {
         headers: {
-          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          "Authorization": `Bearer ${process.env.OPENAI_API_KEY}`,
           "Content-Type": "application/json"
         }
       }
@@ -36,3 +43,7 @@ app.post("/chat", async (req, res) => {
     res.status(500).json({ error: "Something went wrong." });
   }
 });
+
+// ✅ Start server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));
