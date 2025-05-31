@@ -10,6 +10,7 @@ app.use(bodyParser.json());
 
 app.post("/chat", async (req, res) => {
   console.log("✅ POST /chat received");
+
   const userMessage = req.body.message;
   const history = req.body.history || [];
 
@@ -22,7 +23,7 @@ app.post("/chat", async (req, res) => {
           { role: "system", content: "You are a helpful assistant for Overdope Production Hub." },
           ...history,
           { role: "user", content: userMessage }
-        ],
+        ]
       },
       {
         headers: {
@@ -32,8 +33,10 @@ app.post("/chat", async (req, res) => {
       }
     );
 
-    const reply = response.data.choices[0].message.content;
+    const reply = response.data.choices?.[0]?.message?.content;
+    console.log("🔁 Reply:", reply);
     res.json({ reply });
+
   } catch (error) {
     console.error("❌ Error calling OpenAI:", error.response?.data || error.message);
     res.status(500).json({ error: "Something went wrong." });
