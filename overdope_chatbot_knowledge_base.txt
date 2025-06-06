@@ -56,31 +56,42 @@ A: €10/photo for extra edits.
 ---
 
 🎙️ PODCAST & TALKING HEAD PRODUCTIONS
+Q: How much does it cost to shoot a podcast at Overdope?
 
-#### Podcast Studio Pricing
+A:
+At Overdope, you have two main options for shooting your podcast, depending on your budget and production goals:
 
-- Studio Rental (bring your camera): €50/hr, €90 (2hr), up to €310 (8hr). Pro mics, lights, audio recorder, up to 3 people.
-- With Our Cameras (no edit): €120/hr, €230 (2hr), up to €750 (8hr). Add 3rd cam: €30–€50/hr.
-- Real-Time Edit w/ ATEM Mini Pro: €90/hr, €170 (2hr), up to €600 (8hr). Add 3rd cam: €15–€30/hr.
-- Editing: ATEM: €150 (2 cams), €180 (3 cams). Full edit: €250 (2 cams), €270 (3 cams). Teasers/reels: €30–€80+.
+1. Affordable, Ready-Fast Option – ATEM Mini Pro (Live Switch):
 
-#### RAW MULTICAM (6K/4K) VS ATEM MINI PRO (Live Switch) – WHAT’S THE DIFFERENCE?
+Your podcast is recorded live using our multi-cam ATEM Mini Pro switcher.
+You get a finished, ready-to-post Full HD video (no separate camera feeds).
+Pros: Fastest turnaround (same/next day), budget-friendly, great for interviews and quick content.
+Cons: Lower resolution (Full HD, not 4K/6K), camera angles are “baked in” (can’t change them later).
+2. High-End, Flexible Editing – RAW Multicam (6K/4K):
 
-- **RAW Camera Files (6K/4K)**
-  - Each camera records high-res video to SD card.
-  - Footage is synced/edited after filming.
-  - **Pros:** Highest quality, flexible editing (reframe/cut clips), best for pro/longterm projects.
-  - **Cons:** More expensive, longer delivery, big files.
+Each camera records in high resolution (6K/4K) straight to SD cards.
+All files are synced and edited in post-production, giving you maximum control over cuts, angles, graphics, and export format.
+Pros: Best possible quality, flexible edits, advanced post-production options.
+Cons: Higher cost, longer delivery, larger files.
+📦 Podcast Studio Rental Options
 
-- **ATEM Mini Pro (Live Switch, Full HD)**
-  - All cams plug into ATEM Mini Pro, angles are cut live.
-  - You get a finished, ready-to-post Full HD video (no separate camera feeds).
-  - **Pros:** Fastest turnaround (same/next day), cheaper than full editing, great for interviews/quick content.
-  - **Cons:** Lower resolution, edits/angles are locked, less flexible for repurposing content.
+Studio Rental (bring your own camera):
+€50/hr, €90 (2hr), up to €310 (8hr). Includes pro mics, lights, and audio recorder for up to 3 people.
+With Our Cameras (no editing):
+€120/hr, €230 (2hr), up to €750 (8hr). Add a 3rd camera for €30–€50/hr.
+Real-Time Edit with ATEM Mini Pro:
+€90/hr, €170 (2hr), up to €600 (8hr). Add 3rd camera: €15–€30/hr.
+Editing:
+ATEM footage: €150 (2 cams), €180 (3 cams).
+Full 6K/4K edit: €250 (2 cams), €270 (3 cams).
+Teasers/reels: €30–€80+.
+Which option is best for you?
 
-**Which to choose?**  
-- Want speed, simplicity, “done-in-one”? ATEM Mini Pro.
-- Want flexibility, max quality, or lots of edits? Raw 6K/4K.
+If you want a fast, affordable podcast to post right away: Go with ATEM Mini Pro (Live Switch)
+If you want maximum quality, flexibility, and advanced editing: Choose RAW Multicam (6K/4K)
+You can also choose to shoot with our cameras and crew, or just rent the studio and bring your own equipment and team.
+
+Let me know if you want a direct, copy-paste-ready version for your .txt file, or if you want this phrased more technical, more casual, or with bullet points for the chatbot!
 
 #### More Podcast Q&A
 
