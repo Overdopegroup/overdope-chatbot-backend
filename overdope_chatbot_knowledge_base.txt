@@ -66,8 +66,7 @@ At Overdope, you have two main options for shooting your podcast, depending on y
 
 1. Affordable, Ready-Fast Option – ATEM Mini Pro (Live Switch):
 
-Your podcast is recorded live using our multi-cam ATEM Mini Pro switcher.
-You get a finished, ready-to-post Full HD video (no separate camera feeds).
+Your podcast is recorded live using our multi-cam ATEM Mini Pro switcher. You’ll receive a Full HD video file, and because the audio is captured on a separate track, if you choose to edit the episode yourself you’ll need to sync the audio to the video during post-production.
 Pros: Fastest turnaround (same/next day), budget-friendly, great for interviews and quick content.
 Cons: Lower resolution (Full HD, not 4K/6K), camera angles are “baked in” (can’t change them later).
 2. High-End, Flexible Editing – RAW Multicam (6K/4K):
