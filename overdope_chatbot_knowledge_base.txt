@@ -1,360 +1,212 @@
+#################################
+# OVERDOPE CHATBOT KNOWLEDGE BASE
+# Updated 2025-06-06
+#################################
+
+---
+
 🎬 VIDEO PRODUCTION (MUSIC VIDEO / COMMERCIAL / REELS)
-Q1: How much does a music video, commercial, advertising video, or reel cost?  A: Costs vary depending on the type and complexity of the project. Pricing is affected at three key stages:
-	1	Pre-Production – This includes everything that happens before filming:  
-	◦	Developing the concept or script
-	◦	Mood boards and visual references
-	◦	Scouting and confirming locations
-	◦	Casting (models, extras, dancers, etc.)
-	◦	Set design and preparation  
-	2	Production (Shoot Day) – The filming day and setup:  
-	◦	Type of cameras used and how many
-	◦	Filming duration (hours or full day)
-	◦	Lighting setup (studio or location)
-	◦	Choreography and shot complexity
-	◦	Crew (director, camera op, assistant, etc.)
-	◦	Makeup, hair, costume and styling  
-	3	Post-Production – After the shoot:  
-	◦	Editing and number of revisions
-	◦	Visual effects (VFX), on-screen lyrics, or graphics
-	◦	Color grading and cinematic enhancement
-	◦	Sound design  
-We offer fixed packages as well as fully custom quotes depending on your vision, needs, and budget.
-Q2: What’s included in the basic music video shoot? Do you offer fixed packages?  A:  Yes, we offer both fixed-price and custom packages.
-	•	Cyclorama Basic Music Video (€250)  
-	◦	Filming duration: 30–40 minutes
-	◦	Location: Our studio
-	◦	Lighting: Full color background via RGB LED setup
-	◦	Final deliverable: One video up to 2.5 minutes, basic edit on the same day
-	◦	Extras: One high-resolution thumbnail or promotional photo
-	•	This package is ideal for freestyles, performance reels, social media promos, or small-scale music video content with a fast turnaround.  
-	•	Outdoor Basic Music Package  
-	◦	Price varies by location:  €600 Nicosia | €680 Larnaca | €720 Limassol/Famagusta | €760 Paphos
-	◦	Includes up to 4 hours filming in daylight with one camera
-	◦	No lighting or drone unless requested separately
-	◦	Final deliverables:  
-	▪	One edited video up to 2.5 minutes
-	▪	One 20-second teaser
-	▪	One high-res thumbnail photo  
-	◦	Delivery within 5-10 working days  
-	•	Studio Filming Rental (Without Editing)  
-	◦	€150/hour in cyclorama
-	◦	€120/hour in other indoor studio locations
-	◦	Includes basic lighting and one camera
-	◦	Any additional equipment, location setup, or styling is charged separately
-	◦	A €20 charge applies for file transfer and storage (one-week cloud access)
- For Outdoor Filming Without Editing without Editing our rates start from €100-€350 /h. What affects the price is the time of the day, the complexity of the filming and gear required. The assistant needed to execute the filming and more. There is a minimum charge of 2 hours for outdoor filming in Nicosia & 4 hours in other cities. There is also an additional cost for other cities on the total price. Larnaca +80, Limassol/Famagusta  +120 Paphos +160.
 
-	•	Outdoor Reel for Business Package:  
-	◦	Price varies by location:  €450 Nicosia | €500 Larnaca | €550 Limassol/Famagusta | €600 Paphos
-	◦	Includes up to 3 hours filming one camera 
-	◦	No lighting or drone unless requested separately
-	◦	Final deliverables:  
-	▪	3 edited Reels up to 25-40 seconds
-	▪	Included basic sound design and copyright free music
-	▪	Added logo if requested or any other information 
-	▪	In this package there are no revisions included, client must decide what they want to promote in advance, what type of music they want (we can provide options in advance)
-	▪	If the client wishes to have revision options that will be discussed in advance and added to the package at an additional cost. 
-	▪	Client must know that this package is for a basic type of reels without special effects and complicated editing nore filming. 
-	▪	In this package you can add additional reels that will be created from the existing footage  for only €50 per reel.
+Q: How much does a music video, commercial, advertising video, or reel cost?
+A: Costs vary depending on the type and complexity of the project. Pricing is affected at three key stages:
+- Pre-Production – concept/script, mood boards, locations, casting, set design
+- Production – camera(s), filming duration, lighting, choreography, crew, styling
+- Post-Production – editing, VFX, grading, sound design
+We offer fixed packages and fully custom quotes depending on your needs.
 
-	•	Delivery within 5-10 working days. Find out more details about the packages by submitting our form.
+Q: What’s included in the basic music video shoot? Do you offer fixed packages?
+A: Yes, we offer both fixed-price and custom packages.
+- Cyclorama Basic Music Video (€250): 30–40min shoot, our studio, full color background, basic edit (same day), 1 promo photo. Ideal for freestyles/social promos.
+- Outdoor Basic Music Package: €600 Nicosia | €680 Larnaca | €720 Limassol/Famagusta | €760 Paphos. Up to 4hr filming, 1 camera, 1 edit up to 2.5min, teaser, 1 photo, delivery 5–10 days.
 
-Q3: How long does it take to shoot a music video?  A:  It depends entirely on the script, number of locations, required props, lighting setups, and complexity of performance. Some basic reels take around an hour, while full-day productions are common for commercial music videos. Once we confirm the concept and logistics, we’ll give you an accurate timeline.
-Q4: Can you help with concept development or do I need to bring my own idea?  A:  We can work either way:
-	•	If you bring a complete idea, there's no extra charge. If you want us to develop your concept from scratch, we offer a script and visual concept service, starting from €250 to €500 depending on complexity.
-	•	If you already have an idea and just want improvement or structuring, the cost is €200.
-Q5: Do you provide locations or do I need to find one?  A:  We offer location scouting services, with fees ranging from €150 to €600 depending on the type of location and whether special permits are required.  You may also use our in-house studio spaces, which can be incorporated into your custom quote. If you propose your own location, we must pre-approve it to ensure it's suitable for filming and technically viable. 
-Q6: What kind of equipment do you use?  A:  Our in-house equipment includes:
-	•	Blackmagic Cinema Camera 6K
-	•	Two Lumix S1H cameras
-	•	Professional studio lighting kits (RGB, constant, softboxes, spotlights)
-	•	Mavic Pro 2 drone
-	•	Smoke machine 
-	•	Gimbal 
-	•	Modifiers and camera stabilizers  
-If your project requires more advanced gear (cranes,, anamorphic lenses, etc.), we can arrange rentals at an additional cost.
-Q7: Is lighting included in the shoot?  A:  Yes — all cyclorama studio shoots include lighting.  However, outdoor shoots do not include lighting unless specifically added to the quote.
-Q8: Can I shoot in your studio or only on location?  A:  You can shoot wherever you like — indoor, outdoor, in our cyclorama studio, or even set up at a custom location. We’re flexible and can help you decide based on your vision.
-Q9: Do you offer editing, or just the shoot?  A:  We offer full editing services. This includes:
-	•	Cutdowns
-	•	Transitions
-	•	Color correction and grading
-	•	Text or lyrics on screen
-	•	Sound design and synchronization
-We do not currently offer 3D animation or complex motion graphics.
-Q10: Can you add effects, transitions, or lyrics on screen?  A:  Yes. We regularly add transitions, screen effects, and time-synced lyrics for music videos. Just let us know what you're looking for and we’ll make sure to include it in the post-production phase.
-Q11: How many revisions are included in the edit?  A:  Each video includes one free revision.  Additional revisions are available at an extra cost, or we can include multiple rounds if pre-agreed in your production plan.
+Q: Do you provide locations or do I need to find one?
+A: We offer location scouting (€150–€600) or you can use our studios. All locations must be pre-approved.
 
-How much does a photography session cost at your studio: 
-Studio Time with a photographer costs 100/hour only for a basic  photo shooting session. 
-Packages Photoshoot &  5+1 photos edited for €150. colour correction, basic skin correction 
-Packages Photoshoot &  10+1  photos edited for €190.) colour correction, basic skin correction
-For outdoor shooting basic packages:
-Price varies by location:  €250 Nicosia | €290 Larnaca | €330 Limassol/Famagusta | €370 Paphos
-It includes a 2 hours photosession and 5+1 edited photos colour correction, basic skin correction
-In general editing photos costs €10/photo.
-Q12: What do I need to bring on shoot day?  A:  Once your project is booked, you’ll receive a shoot checklist based on your package. This usually includes outfit changes, props, USB/SD card (if applicable), and anything personal to your creative vision.
-Q13: Do you provide models, dancers, or extras?  A:  Yes, we offer casting services. Models, dancers, and actors are billed separately and priced individually according to their rates. We'll help you coordinate and book them according to your project needs.
-Q14: Can I use props or do I need to bring my own?  A:  We have a selection of props available in-studio  some are free to use, others carry a small rental fee. You're also welcome to bring your own. We recommend discussing prop requirements during pre-production.
-Q15: Can I bring my own videographer or editor?  A:  Yes, as long as you let us know in advance. Please keep in mind:
-	•	We are not responsible for the final result if the shoot/edit is done by external collaborators.  
-	•	Roles and responsibilities must be clearly defined before the shoot to avoid delays or miscommunication.  
-Q16: How soon will I get the final video?  A:  Delivery time depends on your package and editing complexity.
-	•	For basic packages, delivery is typically within 5 to 10 working days.  
-	•	For larger projects, we’ll specify a custom delivery window in your agreement.  If you need an express turnaround, we offer rush delivery for an additional cost just let us know.  
-Q17: Can I shoot multiple videos in one day?  A:  Yes, you can. If the content and concept allow it, we can film more than one video in a single day. This works especially well for artists or brands who want to maximize time. However, a planning meeting is required to determine feasibility based on time, crew, and gear needs.
-Q18: What happens if we need more time than we booked?  A: If you need additional time, you will be charged based on the projects' hourly rates, considering studio or location rental, crew fees, casting fees etc.
- However, we always communicate this before continuing, so there are no surprises.  If the delay is caused by our team, you won’t be charged.
-Q19: How do I book and pay?  A:  You can submit a form on our Contact Us page or call us directly. To confirm a booking:
-	•	Send us your preferred date and time,  
-	•	Include your full name, email, phone, and  
-	•	If it’s for a company, include business name, and billing info.  
-Once confirmed, we’ll issue an invoice. Payments can be made by bank transfer, card , or cash. A 50% deposit is typically required to lock your booking for any type of project and the rest with the delivery of the project.
-Q20: Can you shoot in slow motion or different frame rates?  A:  Yes. We can shoot in slow motion, high frame rate, and cinematic formats such as 24fps or 120fps depending on the camera setup. Let us know what effect you're aiming for and we’ll match it.
-Q21: Can I bring my own stylist, makeup artist, or creative team?  A:  Yes, you’re absolutely welcome to bring your own stylist, MUA, creative director, etc. We respect creative collaboration.  However, we kindly ask to be informed in advance, and all external collaborators should respect the studio environment and shoot schedule.
-Q22: Do you offer behind-the-scenes (BTS) photos or footage?  A:  Yes, we can provide BTS content — either photos, short video clips, or a full BTS reel.  Pricing depends on duration and deliverables. Let us know during booking if you'd like to include this service in your package.
-Q23: Can you help get my video on TV or streaming platforms?  A:  We do not offer direct placement on TV channels.  However, we can prepare your content to meet formatting and delivery specs for YouTube, Instagram, TikTok, or streaming platforms.
-Q24: Do you offer vertical video formats for TikTok and Instagram?  A:  Absolutely. We can deliver your project in portrait (9:16), square (1:1), or widescreen (16:9) depending on where you’ll publish.  Please tell us your target platforms when booking so we frame and edit your shots accordingly.
-Q25: What’s the best time of day to shoot outdoors using natural light?  A:  For natural lighting:
-	•	Summer: Early morning (5:00 AM–7:30 AM) and golden hour (6:00 PM–8:00 PM)  
-	•	Winter: Morning (7:00 AM–9:00 AM) and late afternoon (4:00 PM–5:30 PM)
-We’ll advise you based on the season and your project type.
-Q26: Can you create a visualizer or lyric video instead of a full video?  A:  Yes! We can create visualizers, animated lyric videos, or motion-based loops for your music.  These are custom priced based on design, length, and whether you provide assets (e.g., your lyrics or background visuals). 
-Q27: Can I shoot with a green screen or use VFX background replacement?  A:  Yes. Our studio supports green screen filming, and we can also offer VFX-based background replacement using stock footage or custom design. Green screen use may involve additional lighting and setup, so be sure to mention this when you book.
-Q28: Can you work with my storyboard or shot list?  A:  Yes, we can follow your storyboard or shot list.  However, if you request us to follow very specific instructions for both shooting and editing, we are only responsible for image quality, not the storytelling or pacing. If we are asked to creatively adjust or improve the plan, there might be a small additional fee.
-Q29: Do I need a permit for outdoor shoots? Will you handle that?  A: Some public and private locations in Cyprus require filming permits, especially for drones or extended setups. We can handle the paperwork for you for an additional service fee (quoted case-by-case). Please note that we may refuse to film at unapproved or restricted locations without proper permits.
-Q30: Can I combine music video and commercial content in one shoot?  A: Yes. Many clients combine promo material, product shots, or brand visuals within a single music video shoot. This needs to be discussed and planned during pre-production, and may require a longer shoot window or multiple edits.
-Q31: What if I want you to do the filming but not the editing?  A: No problem. We offer filming only services Pricing starts from €100/hour. A €20 file handling fee applies if you need us to transfer and store footage.
+Q: What equipment do you use?
+A: In-house: Blackmagic Cinema 6K, 2x Lumix S1H, studio lighting, Mavic Pro 2 drone, smoke machine, gimbal, modifiers. We can also rent special gear if needed.
 
-Q32: What if I want to rent the studio but do my own filming and editing?
-A:
-No problem. We offer studio-only rental here is our price list for cyclorama rental: 
-Gear included:  Amaran 150c mounted on the ceiling with lantern, Godox sl200 mounted on the​Ceiling with 180cm softbox, 2x lightstands, 2x softbox, Changing & Make-up zone, Equipment Troley.
-	•	​​2 hours – €110
-	•	3 hours – €160
-	•	4 hours – €205
-	•	5 hours – €235
-	•	6 hours – €275
-	•	7 hours – €315
-	•	8 hours – €355​  
-Monthly subscription package 25hours – €1000.
-You’ll receive access to the space and can bring your own camera operator. A €20 file handling fee applies if you need us to transfer and store footage.
+Q: Is lighting included in the shoot?
+A: Yes for all cyclorama shoots. Outdoor shoots only if requested.
+
+Q: Can I shoot in your studio or on location?
+A: You can choose—studio, outdoor, or custom location.
+
+Q: Do you offer editing?
+A: Yes—cutdowns, transitions, grading, lyrics on screen, sound sync. No 3D animation or advanced motion graphics currently.
+
+Q: How many revisions are included?
+A: Each video includes 1 free revision. More can be added for a fee.
+
+Q: Can I bring my own videographer/editor?
+A: Yes, if you inform us in advance. We’re not responsible for final results from external teams.
+
+Q: What if I want to rent the studio only?
+A: Cyclorama Rental includes lights and basic gear. 2hr–€110, 3hr–€160, 4hr–€205, 5hr–€235, 6hr–€275, 7hr–€315, 8hr–€355. Monthly 25hr–€1000. Add €20 if you need us to handle files.
+
+---
+
+📸 PHOTOGRAPHY
+
+Q: How much does a photo session cost at your studio?
+A: Studio + photographer: €100/hr (basic). Packages: 5+1 edited photos–€150, 10+1–€190 (color & skin correction). Outdoor: €250 Nicosia | €290 Larnaca | €330 Limassol/Famagusta | €370 Paphos (2hr, 5+1 edited).
+
+Q: How much is photo editing?
+A: €10/photo for extra edits.
+
+---
 
 🎙️ PODCAST & TALKING HEAD PRODUCTIONS
-Q1: How much does it cost to rent the podcast studio?  A:    Use our podcast studio with your own camera setup.  
-	◦	1 hour: €50
-	◦	2 hours: €90
-	◦	3 hours: €130
-	◦	4 hours: €170
-	◦	5 hours: €210
-	◦	6 hours: €250
-	◦	7 hours: €285
-	◦	8 hours: €310  Includes professional microphones, studio lighting, and audio recorder for up to 3 people.  
-Rental with Our Cameras (No Editing):  Filmed using 2 of our professional cameras.  
-	◦	1 hour: €120
-	◦	2 hours: €230
-	◦	3 hours: €320
-	◦	4 hours: €420
-	◦	5 hours: €515
-	◦	6 hours: €600
-	◦	7 hours: €690
-	◦	8 hours: €750
- Add a 3rd camera for €30- €50 depending on hours.  
-Real-Time Edit with ATEM Mini Pro (Full HD Live Switch):  
-	◦	1 hour: €90
-	◦	2 hours: €170
-	◦	3 hours: €250
-	◦	4 hours: €330
-	◦	5 hours: €400
-	◦	6 hours: €460
-	◦	7 hours: €530
-	◦	8 hours: €600  Add 3rd camera: €15–€30 depending on hours.  
-Q2: Do you offer editing services for podcasts?  A:  Yes, we provide professional editing with the following options:
-	•	Basic Edited Episode (ATEM Mini Pro Footage):  €150 (2 cams) | €180 (3 cams)  Includes synced audio, intro, name tags, logo, basic sound cleanup, and error removals.  
-	•	Full Edited Episode (SD Card Footage):  €250 (2 cams) | €270 (3 cams)  Includes manual syncing, better control over angles, and full cleanup.  
-Need teaser clips, social reels, or captions? We offer that too — just ask.
 
-Q3: Can I bring my own cameras and just use the space?  A:  Yes. You’re welcome to bring your own gear. Rental pricing applies (see Q1).  Just make sure your team is ready to operate independently — we’ll assist with lighting and audio, if needed.
+#### Podcast Studio Pricing
 
-Q4: What’s included in the podcast studio rental?  A:  Every rental includes:
-	•	Studio lights (fixed)
-	•	2–3 high-end microphones
-	•	Audio interface and professional audio recorder
-	•	Option to use the ATEM Mini Pro live-switching system
-	•	Decor (based on availability): small furniture, plants, ambient lighting, floor lamps  
-Q5: How many people can the podcast studio support?  A:  The default setup supports up to 3 speakers.  We can extend to 5 guests with a custom setup for an additional fee of €50, which covers microphones, space, and visual layout adjustments.
-Q6: Is the podcast studio soundproof?  A:  Yes. The studio is fully soundproofed, with:
-	•	Floating floors
-	•	Double-door entry
-	•	Acoustic panels
-	•	Isolated mic setup  Perfect for clean, professional voice recordings.  
-Q7: Can I book a podcast setup in another studio location?  A:  Yes. We offer custom podcast setups in other rooms, including the cyclorama studio, balcony set, or kitchen for unique visual formats. You get a separate offer on that but to put it in perspective filming podcasts in cyclorama the price without edit starts at €150. Setting up the podcast prices start at €30.
-Q8: Can I book the podcast studio online?  A:  Online booking is coming soon. For now, please use our contact form, email, or call us directly.  Include your full name, contact details, preferred date/time, and any extra services you need.
-Q9: How do I pay for my podcast session?  A:  We accept payment via:
-	•	Bank transfer
-	•	Cash (on-site)
- Once your booking is confirmed, we’ll issue an invoice. A deposit may be required for longer sessions or packages. 
-Q10: Can I live stream my podcast session?  A:  Yes, with advance setup.  Using the ATEM Mini Pro system, we can stream to platforms like YouTube, Facebook, or Zoom in real time.  You’ll receive the live-switched HD video file afterward, too.
-Q11: Will I get the output from the ATEM Mini Pro?  A:  Yes. You’ll receive the final switched feed in full HD, which is ready to post right away.  It’s perfect for fast delivery, though it’s less editable than raw camera files.
-Q12: What kind of microphones do you use?  A:  We use Rode broadcast-quality podcast microphones. 
-Q13: What if I need more time during my session?  A:  You can extend your booking if the studio is available. Additional time is billed based on your chosen setup.  We always aim to be flexible, but time overruns must be agreed on the spot.
-Q14: Do I need technical knowledge to use the space?  A:  No. We’ll handle all technical aspects — from sound and lighting to camera setup and ATEM switching.  You just show up, speak, and create.
+- Studio Rental (bring your camera): €50/hr, €90 (2hr), up to €310 (8hr). Pro mics, lights, audio recorder, up to 3 people.
+- With Our Cameras (no edit): €120/hr, €230 (2hr), up to €750 (8hr). Add 3rd cam: €30–€50/hr.
+- Real-Time Edit w/ ATEM Mini Pro: €90/hr, €170 (2hr), up to €600 (8hr). Add 3rd cam: €15–€30/hr.
+- Editing: ATEM: €150 (2 cams), €180 (3 cams). Full edit: €250 (2 cams), €270 (3 cams). Teasers/reels: €30–€80+.
 
-Q15: Can you add custom intros or visual branding to my podcast?  A:  Yes! We can create:
-	•	Animated intros/outros
-	•	Logo animations
-	•	Music intros
-	•	Brand overlays  These are custom priced depending on style and duration. Ask us for a quote.
-Q16: Can I get clips or reels for Instagram or TikTok?  A:  Yes. We offer highlight clips, vertical reels, and teasers as add-ons.  We can cut clips from any full episode or film short-form directly.  Prices start at €30 for 1 teaser and €80 for 4 reels.
-Q17: When will I receive my final podcast video/audio?  A:  Standard delivery is within 1–3 working days for edited podcast episodes.  Faster delivery is possible with prior arrangement for an additional fee.
-Q18: Can I shoot a video podcast with multiple camera angles?  A:  Yes.
-	•	Standard setup: 2 cameras  
-	•	Upgrade: 3-camera shoot for an additional fee (see Q1)  We advise a 3rd camera if you have 3+ guests or want dynamic visuals.
-Q19: Does the ATEM Mini Pro output include synced audio?  A:  The ATEM output includes audio, but it is not synced manually.  For professional results, we recommend our editing service to sync and polish the final product.
-Q20: Can I invite a guest via Zoom or remote call?  A:  Yes. We can set up a split-screen format or audio feed from a live call for remote podcasting.  Please let us know in advance to prepare the setup.
-Q21: Do you provide a host or producer?  A:  We can assist with:
-	•	Topic development
-	•	Format planning
-	•	Episode structuring  If you want a dedicated host or moderator, we can arrange one upon request at an additional fee.  
-Q22: What file formats will I receive?  A:
-	•	Video: MP4 (Full HD or 6K depending on setup)  
-	•	Audio: WAV or MP3 (cleaned and leveled)  We can also send ProRes or separate audio stems if requested.
-Q23: Can I use my podcast session as a branded promo or interview?  A:  Absolutely. We regularly host promo interviews, educational content, and talking-head sessions.  Let us know your intent and we’ll guide the format for best results.
+#### RAW MULTICAM (6K/4K) VS ATEM MINI PRO (Live Switch) – WHAT’S THE DIFFERENCE?
 
-Q24: What if I don’t have a channel or platform? Can you host my content?  A:  Yes. We offer guest podcast hosting through our branded YouTube or Spotify channels.  To maintain our brand quality, we request:
-	•	Your guest's name and background  
-	•	Questions in advance  
-	•	Content approval after filming  
-If approved, hosting and promo cost:
-	•	Thumbnail: €20  
-	•	Teaser: €30  
-	•	3 Reels: €60  
-	•	Poster: €10  
-	•	Distribution/promo: €20  
+- **RAW Camera Files (6K/4K)**
+  - Each camera records high-res video to SD card.
+  - Footage is synced/edited after filming.
+  - **Pros:** Highest quality, flexible editing (reframe/cut clips), best for pro/longterm projects.
+  - **Cons:** More expensive, longer delivery, big files.
 
-Q25: Can you help me plan my podcast concept and structure?  A:  Yes. We offer full podcast development services, from identifying your niche and audience to designing visuals and scripting intros/outros.
-Q26: Can I book a full-day shoot for multiple episodes?  A:  Yes. You can book up to 8 hours for bulk recording. This is ideal for batching several episodes.  Ask about discounted editing rates for multi-episode projects.
-Q27: Can I record only audio (no video)?  A:  Yes. Studio-only audio podcasting is available.  Same pricing applies as studio rental. For audio-only editing, we charge €25/hour.
-Q28: Do you help launch new podcasts?  A:  Yes. We can help with:
-	•	Naming and branding
-	•	Intro/outro creation
-	•	Logo design
-	•	Launch marketing  This is a custom service, so we’ll build a quote based on your needs.  
-Q29: Do you offer discounted podcast packages for long-term use?  A:  Yes. If you’re producing content regularly, we offer monthly packages or multi-episode bundles.  Prepayment is required, and bookings must be scheduled in advance. Packages are non-refundable.
-Q30: Can I cancel or reschedule my booking?  A:  Yes. We ask for 48 hours' notice for cancellations or changes.  Rescheduling is free if you notify us in time. Cancellations under 48 hours may be subject to a fee. For prepaid packages terms and conditions are applied. 
+- **ATEM Mini Pro (Live Switch, Full HD)**
+  - All cams plug into ATEM Mini Pro, angles are cut live.
+  - You get a finished, ready-to-post Full HD video (no separate camera feeds).
+  - **Pros:** Fastest turnaround (same/next day), cheaper than full editing, great for interviews/quick content.
+  - **Cons:** Lower resolution, edits/angles are locked, less flexible for repurposing content.
 
-Q31: Can I record my podcast in the cyclorama studio?  A:  Yes! You can film your podcast in our cyclorama for a high-end, cinematic look.
-	•	Filming with ATEM Mini Pro: €120/hour
-	•	Filming with 2 cameras (raw footage): €150/hour
-	•	Add 3rd camera: +€30–€50 depending on method
-	•	Setup/dismantle cost: From €30
-	•	Editing: €180–€250 depending on cameras used
-	•	Voice sync only: €30 (2 mics) + €15 per additional mic  
+**Which to choose?**  
+- Want speed, simplicity, “done-in-one”? ATEM Mini Pro.
+- Want flexibility, max quality, or lots of edits? Raw 6K/4K.
 
-Here's a universal fallback response for your chatbot to use whenever it encounters a question it cannot answer:
+#### More Podcast Q&A
 
-Fallback Answer:  "Thank you for your interest in our services. At this moment, I only have access to specific information. Would you like me to show you the list of topics I can help you with?"
-	•	If the user replies "Yes":  
-Here’s what I can help you with right now:  🎬 Video Production – Music videos, commercial videos, reels  📝 Pre-Production – Concept, scripting, casting, locations  📷 Production Details – Studio vs outdoor, equipment, lighting, crew  🎞 Post-Production – Editing, grading, transitions, lyrics, formats  🎭 Extras – Models, dancers, props, VFX, green screen  🎙️ Podcast Production – Studio rental, editing, ATEM setup, audio-only, reels  💬 Booking & Payments – How to book, pricing, payment methods, delivery times
+Q: Can I bring my own gear?
+A: Yes, same rental rates apply. We’ll help with lighting/audio as needed.
 
-Let me know which area you'd like to know more about.
+Q: What’s included?
+A: Studio lights, 2–3 pro mics, audio interface, ATEM Mini Pro, basic decor.
 
+Q: How many people can join?
+A: Up to 3 by default, or 5 with a custom setup (+€50 for extra mics/layout).
 
+Q: Is the studio soundproof?
+A: Yes—floating floor, double doors, acoustic panels.
 
+Q: Can I book in other locations?
+A: Yes—custom setups possible (balcony, kitchen, cyclorama). Podcast in cyclorama: from €150/hr.
 
-	•	If the user replies "No":  
-No problem!  We’d be happy to assist you directly by email or phone.  Please don’t hesitate to reach out, we’re here when you need us.
+Q: Can I book online?
+A: Booking system coming soon—contact us by form/email/phone.
 
+Q: How do I pay?
+A: Bank transfer or cash. Invoice sent after booking. Deposit may be needed.
 
+Q: Can I livestream?
+A: Yes, using ATEM Mini Pro. Get live-switched HD file after.
 
-How much does it cost to record my song? 
-Here is our price list: 
-	•	1 hour: €25
-	•	2 hours: €45
-	•	3 hours: €65
-	•	4 hours: €80
-	•	5 hours: €100
-	•	6 hours: €120
-	•	7 hours: €140
-	•	8 hours: €150
-	•	Sundays: €30/Hr
-	•	Multitrack Band Recording: 35€\Hr
-How much does it cost to mix master my song:
-### Studio B – Self-Service Rehearsal Studio
-- 1 Hour: €20
-- 4 Hours: €70
-- 6 Hours: €95
-- 8 Hours: €120
-- Monthly package (15 hours): €210
-- Masterclass: €50/hour
-- Session Photoshoot: €50 (30 mins, 10 photos)
-- 30-sec Reel Session: €100 (30 mins filming + editing)
-- Multitrack Recording: €35/hour
-Audio Engineering Pricing
-Mixing and Mastering:
-	•	€70 per track For one artist, each additional artist: +€30, instrumental stems: starts from €30.
-Package Rates:
-	•	3-track package: €60 per track only for one artist
-	•	5-track package: €50 per track​ per track only for one artist
-	•	
-​ Do you make beats? 
-Yes we have a catalogue of ready beats you can purchase for a leasing contract and we can also produce custom beats. We additionally offer Executive production services.
+Q: Do you sync audio for ATEM output?
+A: No, it’s not manually synced unless you request editing.
 
-What Gear do you have/use in your studio?
-Preamp\Channel: Avalon 737sp Limited edition, SPL Goldmic Mic: Soyuz 017 Interface: Motu 828x DAC: Dangerous dbox Compressor: 2x DBX160aDAW: Logic Pro x Plugins: UAD,Waves Monitors: Neumann kh120, kh750 DSP, Aventone Mixcube
+Q: Can I get social media clips?
+A: Yes—teasers from €30, bundles from €80.
 
-Do you cover events and weddings? 
-Yes we do! Our event and wedding packages vary on the needs you have. Our basic packages are: 
+Q: Can I book a full day for bulk podcasts?
+A: Yes—discounts for multi-episode batches.
 
-Wedding Cinematography 6k: starts at 1000 with one videographer 
-	•	10-12 hour filming 
-	•	Final video up to 20 minutes (3-4 songs)
-	•	Colour grading 
-	•	Cinematic transitions
-	•	Delivered on Usb 
-	•	Smooth transitioning 
-Wedding highlights 4k: 650 
-	•	10 hour filming 
-	•	Final video up to 15 minutes (songs)
-	•	Colour correction
-	•	Basic transitions 
-	•	Delivered on Usb
-Full Hd video coverage starts at 650 
-	•	Full day filming until 00:00
-	•	Up to 2 hours video delivery 
+Q: Can you host my podcast/channel?
+A: Yes, with content approval. Hosting/promo: thumbnail €20, teaser €30, 3 reels €60, poster €10, promo €20.
 
+---
 
-Full Hd video semi highlight 800
-This is a combo where the big video has 15-30 seconds introduction of each location such as brides home, grooms home, church and venue. We add melody and slow motions.
-Photography packages start at 1200 included albums.
-Christening packages video and photography start at 950 total.  
-Event coverage  basic package in nicosia Video and photos 600.
-Drone services from 250-350. Full day 600
-Includes 2 hours event coverage, 1 videographer and 1 photographer, lighting included. Drone not included 
-Deliverables: 
-highlight up to 2 minutes 
-All the photos delivered, 50 photos polished 
-Projects delivered on google drive. 
+🎛️ MUSIC RECORDING & PRODUCTION
 
-Do you rent equipment: no we do not rent equipment for outdoor projects. 
-Can we book the whole studio for private projects? Yes you can. Please request a price by submitting our form. Write to us what the project will be about how many days or hours you need the studio. 
-Can I record an audio book with you?
-Yes of course you can record any vocal project you wish. 
+Q: How much does it cost to record my song?
+A: 1hr–€25, 2hr–€45, 3hr–€65, 4hr–€80, 5hr–€100, 6hr–€120, 7hr–€140, 8hr–€150. Sundays €30/hr. Multitrack band: €35/hr.
 
-Are you LGPTQ friendly? Are you racists? Do you work with blacks or africans? Do you work with muslims or other religions except christians? Do you support any political party? 
-At Overdope.Group we respect each individual and their human rights. Their personal views, sexual orientation, religion, ethnicity  and so on is none of our business. We are very cautious with what comes out from our studio so be kindly informed that we might reject projects and people we don't see fit for our brand and our standards but not people based on the above characteristics. 
-Project and people we reject: hate - racist content or behaviour, propagandistic content, pornography, extremism, pedophile content, criminals like abusers, murderers & rapists.  
+Q: Mixing & mastering?
+A: €70/track (1 artist), +€30/additional artist, +€30 for instrumental stems. 3-track pack: €60/track. 5-track: €50/track.
 
-Do your premises support people with disabilities?
-Yes 100% we have parkings, easy access, wc.
-Do you have fitting room ? 
-Yes we do
-Do you have wc for both genders?
-Yes we do
-Do you have a kitchen location and a fridge?
-Yes we do and you can use it for filming purposes too. 
-Go fuck your self, hate speech:
-answer : We are sorry for all the bad feelings you have inside you and we wish you heal yourself as fast as possible so you can enjoy life and our services <3
+Q: Do you make beats?
+A: Yes—ready beats (lease), custom beats, and executive production.
 
-Do you offer social media management?
-We offer content strategy services. Learn more about it by submitting a form. Describe your business or personal brand and share with us your concerns.
+Q: What gear do you use?
+A: Avalon 737sp, SPL Goldmic, Soyuz 017, Motu 828x, Dangerous D-Box, 2x DBX160a, Logic Pro X, UAD/Waves, Neumann KH120, KH750 DSP, Aventone Mixcube.
+
+---
+
+🎛️ STUDIO B – SELF-SERVICE REHEARSAL STUDIO
+
+- 1hr: €20
+- 4hr: €70
+- 6hr: €95
+- 8hr: €120
+- Monthly 15hr: €210
+- Masterclass: €50/hr (includes rental)
+- Session Photoshoot: €50 (30min, 10 edited, rental not included)
+- 30sec Reel: €100 (30min film+edit, rental not included)
+- Multitrack: €35/hr (rental not included)
+
+---
+
+💍 EVENTS, WEDDINGS & PHOTOSHOOTS
+
+Q: Do you cover events and weddings?
+A: Yes! Wedding Cinematography 6K: from €1000 (10–12hr, video up to 20min, color grading, transitions, USB delivery). Highlights 4K: €650 (10hr, up to 15min, color correction). Full HD video: from €650 (full day), semi-highlight: €800. Photography packages from €1200 (albums included). Christening (photo+video) from €950. Event coverage in Nicosia (video+photos): €600. Drone: €250–€350, full day: €600.
+
+---
+
+🔄 BOOKING, PAYMENTS & ETHICS
+
+Q: How do I book & pay?
+A: Submit the form on our Contact Us page or call us. Provide name/email/phone, company/billing info if needed. 50% deposit to book, balance on delivery. Payment: bank transfer, card, or cash.
+
+Q: Can I book the whole studio for private projects?
+A: Yes—request a price via form, describe your project and duration.
+
+Q: Do you rent equipment for outdoor projects?
+A: No, we do not rent equipment for outdoor use.
+
+Q: Do your premises support people with disabilities?
+A: Yes—parking, accessible WC.
+
+Q: Fitting room? Unisex WC? Kitchen/fridge?
+A: Yes to all. Kitchen can be used for filming.
+
+Q: Are you LGBTQ+ friendly? Racism? Politics?
+A: Overdope respects all people regardless of sexual orientation, religion, or ethnicity. We reserve the right to reject hate, racist, propaganda, extremist, or criminal projects, but **not based on identity**.
+
+Q: Hate speech/abuse?
+A: "We are sorry for any bad feelings you have inside. We wish you healing and hope you can enjoy life and our services <3"
+
+---
+
+💡 SOCIAL MEDIA / CONTENT STRATEGY
+
+Q: Do you offer social media management?
+A: We offer content strategy services. Submit a form describing your brand and needs for more info.
+
+---
+
+❓ IF THE BOT DOESN'T KNOW
+
+"Thank you for your interest in our services. At this moment, I only have access to specific information. Would you like me to show you the list of topics I can help you with?"
+
+If user replies "Yes":
+- 🎬 Video Production – Music videos, commercial videos, reels
+- 📝 Pre-Production – Concept, scripting, casting, locations
+- 📷 Production Details – Studio vs outdoor, equipment, lighting, crew
+- 🎞 Post-Production – Editing, grading, transitions, lyrics, formats
+- 🎭 Extras – Models, dancers, props, VFX, green screen
+- 🎙️ Podcast Production – Studio rental, editing, ATEM setup, audio-only, reels
+- 💬 Booking & Payments – How to book, pricing, payment methods, delivery times
+
+If "No":
+"No problem! We’d be happy to assist you by email or phone. Please reach out anytime."
+
+---
+
+END OF KNOWLEDGE BASE
