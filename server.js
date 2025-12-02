@@ -4,13 +4,14 @@ const axios = require("axios");
 const fs = require("fs");
 require("dotenv").config();
 
-// DEBUG — SEE IF RENDER IS LOADING YOUR OPENAI KEY
-console.log("⭐ OPENAI key loaded (first 10 chars):", process.env.OPENAI_API_KEY?.slice(0, 10));
+// ---------------- OPENAI KEY ---------------- //
+const OPENAI_API_KEY = (process.env.OPENAI_API_KEY || "").trim();
+console.log("⭐ OPENAI key loaded (first 10 chars):", OPENAI_API_KEY.slice(0, 10));
 
 // ---------------- FIREBASE ---------------- //
 const admin = require("firebase-admin");
 
-// Load Firebase from Render Secret File
+// Load Firebase service account from Render secret file
 let serviceAccount = null;
 
 try {
@@ -76,7 +77,7 @@ ${knowledgeBase}
 
   try {
     // ---------------- OPENAI API CALL ---------------- //
-    console.log("🔑 Using OpenAI key (first 10 chars):", process.env.OPENAI_API_KEY?.slice(0, 10));
+    console.log("🔑 Using OpenAI key (first 10 chars):", OPENAI_API_KEY.slice(0, 10));
 
     const response = await axios.post(
       "https://api.openai.com/v1/chat/completions",
@@ -86,7 +87,7 @@ ${knowledgeBase}
       },
       {
         headers: {
-          Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+          Authorization: `Bearer ${OPENAI_API_KEY}`,
           "Content-Type": "application/json",
         },
       }
@@ -104,7 +105,6 @@ ${knowledgeBase}
     });
 
     res.json({ reply });
-
   } catch (error) {
     console.error("❌ OPENAI ERROR:", error.response?.data || error.message);
     res.status(500).json({ error: "Something went wrong calling OpenAI." });
