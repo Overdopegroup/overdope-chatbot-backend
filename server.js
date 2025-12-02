@@ -11,23 +11,24 @@ console.log("⭐ OPENAI key loaded (first 10 chars):", OPENAI_API_KEY.slice(0, 1
 // ---------------- FIREBASE ---------------- //
 const admin = require("firebase-admin");
 
-let db = null; // we'll only set this if Firebase init works
+let db = null;
 
 try {
-  const serviceAccountPath = process.env.FIREBASE_SERVICE_ACCOUNT || "./firebase-service-account.json";
-  console.log("🔥 Trying to load Firebase service account from:", serviceAccountPath);
+  // Path from env (Render secret) OR local file for dev
+  const serviceAccountPath =
+    process.env.FIREBASE_SERVICE_ACCOUNT || "./firebase-service-account.json";
 
   const serviceAccount = require(serviceAccountPath);
+  console.log("🔥 Firebase service account loaded from:", serviceAccountPath);
 
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
   });
-
   db = admin.firestore();
   console.log("🔥 Firebase initialized!");
 } catch (err) {
-  console.error("❌ Failed to initialize Firebase. Firestore logging will be disabled.");
-  console.error("   Reason:", err.message);
+  console.error("⚠️ Firebase not initialized:", err.message);
+  db = null; // so we can check later
 }
 
 // ---------------- EXPRESS ---------------- //
@@ -42,7 +43,10 @@ const conversationMemory = {};
 const MAX_HISTORY = 10;
 
 // ---------------- KNOWLEDGE BASE ---------------- //
-const knowledgeBase = fs.readFileSync("./overdope_chatbot_knowledge_base.txt", "utf-8");
+const knowledgeBase = fs.readFileSync(
+  "./overdope_chatbot_knowledge_base.txt",
+  "utf-8"
+);
 
 // ---------------- CHAT ENDPOINT ---------------- //
 app.post("/chat", async (req, res) => {
@@ -52,7 +56,7 @@ app.post("/chat", async (req, res) => {
     return res.status(400).json({ error: "Message is required" });
   }
 
-  // Initialize memory for this session
+  // Initialize memory for session
   if (!conversationMemory[sessionId]) {
     conversationMemory[sessionId] = [
       {
@@ -70,17 +74,19 @@ ${knowledgeBase}
     ];
   }
 
-  // Add user message to history
+  // Add user message
   conversationMemory[sessionId].push({ role: "user", content: message });
 
-  // Keep history small
+  // Keep history short
   if (conversationMemory[sessionId].length > MAX_HISTORY + 1) {
-    conversationMemory[sessionId].splice(1, 1); // keep system message at index 0
+    conversationMemory[sessionId].splice(1, 1);
   }
 
   try {
-    // ---------------- OPENAI CALL ---------------- //
-    console.log("🔑 Using OpenAI key (first 10 chars):", OPENAI_API_KEY.slice(0, 10));
+    console.log(
+      "🔑 Using OpenAI key (first 10 chars):",
+      OPENAI_API_KEY.slice(0, 10)
+    );
 
     const response = await axios.post(
       "https://api.openai.com/v1/chat/completions",
@@ -99,30 +105,26 @@ ${knowledgeBase}
     const reply = response.data.choices?.[0]?.message?.content || "";
     conversationMemory[sessionId].push({ role: "assistant", content: reply });
 
-    // ✅ Send reply to the frontend *even if Firestore fails later*
-    res.json({ reply });
-
-    // ---------------- FIRESTORE LOG (NON-BLOCKING) ---------------- //
+    // Save to Firestore ONLY if Firebase is configured
     if (db) {
-      db.collection("messages")
-        .add({
+      try {
+        await db.collection("messages").add({
           sessionId,
           userMessage: message,
           assistantReply: reply,
           timestamp: admin.firestore.FieldValue.serverTimestamp(),
-        })
-        .then(() => {
-          console.log("📝 Conversation saved to Firestore");
-        })
-        .catch((err) => {
-          console.error("❌ Firestore save failed:", err.message);
         });
+      } catch (dbErr) {
+        console.error("⚠️ Firestore save failed:", dbErr.message);
+      }
     } else {
-      console.warn("⚠️ Firestore disabled: message not saved.");
+      console.log("ℹ️ Skipping Firestore save (db not initialized)");
     }
+
+    return res.json({ reply });
   } catch (error) {
     console.error("❌ OPENAI ERROR:", error.response?.data || error.message);
-    res.status(500).json({ error: "Something went wrong calling OpenAI." });
+    return res.status(500).json({ error: "Something went wrong calling OpenAI." });
   }
 });
 
