@@ -11,24 +11,24 @@ console.log("⭐ OPENAI key loaded (first 10 chars):", OPENAI_API_KEY.slice(0, 1
 // ---------------- FIREBASE ---------------- //
 const admin = require("firebase-admin");
 
-// Load Firebase service account from Render secret file
-let serviceAccount = null;
+let db = null; // we'll only set this if Firebase init works
 
 try {
-  serviceAccount = require(process.env.FIREBASE_SERVICE_ACCOUNT);
-  console.log("🔥 Firebase service account loaded from:", process.env.FIREBASE_SERVICE_ACCOUNT);
-} catch (err) {
-  console.error("❌ Failed to load FIREBASE_SERVICE_ACCOUNT:", err.message);
-}
+  const serviceAccountPath = process.env.FIREBASE_SERVICE_ACCOUNT || "./firebase-service-account.json";
+  console.log("🔥 Trying to load Firebase service account from:", serviceAccountPath);
 
-if (serviceAccount) {
+  const serviceAccount = require(serviceAccountPath);
+
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
   });
-  console.log("🔥 Firebase initialized!");
-}
 
-const db = admin.firestore();
+  db = admin.firestore();
+  console.log("🔥 Firebase initialized!");
+} catch (err) {
+  console.error("❌ Failed to initialize Firebase. Firestore logging will be disabled.");
+  console.error("   Reason:", err.message);
+}
 
 // ---------------- EXPRESS ---------------- //
 const app = express();
@@ -48,9 +48,11 @@ const knowledgeBase = fs.readFileSync("./overdope_chatbot_knowledge_base.txt", "
 app.post("/chat", async (req, res) => {
   const { message, sessionId = "default" } = req.body;
 
-  if (!message) return res.status(400).json({ error: "Message is required" });
+  if (!message) {
+    return res.status(400).json({ error: "Message is required" });
+  }
 
-  // Initialize memory for session
+  // Initialize memory for this session
   if (!conversationMemory[sessionId]) {
     conversationMemory[sessionId] = [
       {
@@ -68,15 +70,16 @@ ${knowledgeBase}
     ];
   }
 
-  // Save message
+  // Add user message to history
   conversationMemory[sessionId].push({ role: "user", content: message });
 
+  // Keep history small
   if (conversationMemory[sessionId].length > MAX_HISTORY + 1) {
-    conversationMemory[sessionId].splice(1, 1);
+    conversationMemory[sessionId].splice(1, 1); // keep system message at index 0
   }
 
   try {
-    // ---------------- OPENAI API CALL ---------------- //
+    // ---------------- OPENAI CALL ---------------- //
     console.log("🔑 Using OpenAI key (first 10 chars):", OPENAI_API_KEY.slice(0, 10));
 
     const response = await axios.post(
@@ -96,15 +99,27 @@ ${knowledgeBase}
     const reply = response.data.choices?.[0]?.message?.content || "";
     conversationMemory[sessionId].push({ role: "assistant", content: reply });
 
-    // Save in Firebase
-    await db.collection("messages").add({
-      sessionId,
-      userMessage: message,
-      assistantReply: reply,
-      timestamp: admin.firestore.FieldValue.serverTimestamp(),
-    });
-
+    // ✅ Send reply to the frontend *even if Firestore fails later*
     res.json({ reply });
+
+    // ---------------- FIRESTORE LOG (NON-BLOCKING) ---------------- //
+    if (db) {
+      db.collection("messages")
+        .add({
+          sessionId,
+          userMessage: message,
+          assistantReply: reply,
+          timestamp: admin.firestore.FieldValue.serverTimestamp(),
+        })
+        .then(() => {
+          console.log("📝 Conversation saved to Firestore");
+        })
+        .catch((err) => {
+          console.error("❌ Firestore save failed:", err.message);
+        });
+    } else {
+      console.warn("⚠️ Firestore disabled: message not saved.");
+    }
   } catch (error) {
     console.error("❌ OPENAI ERROR:", error.response?.data || error.message);
     res.status(500).json({ error: "Something went wrong calling OpenAI." });
